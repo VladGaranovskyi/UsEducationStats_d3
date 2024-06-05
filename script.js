@@ -1,3 +1,5 @@
+// coded by @paycoguy & @ChristianPaul (github)
+
 var body = d3.select('body');
 
 var svg = d3.select('svg');
